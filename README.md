@@ -1,2 +1,2 @@
 # Project-Template BB2
- https://adityachethan.github.io/C15-project/
+  https://aditichandan.github.io/C15/
